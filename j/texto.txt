@@ -1,0 +1,8 @@
+linea uno
+
+package.json sirve para ssaber que modulos se necesita instalar
+(dependencies)para que el proyecto funcione usando
+el comando npm intall
+
+en scripts son  los comandos que se pueden ejecutar
+para agregar algo distinto hay que ejecutar npm run -nombrenuevo-
